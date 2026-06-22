@@ -1,3 +1,0 @@
-/home/emxfire/c-programs/Image-To-ASCII/build/CMakeFiles/Image_To_ASCII.dir
-/home/emxfire/c-programs/Image-To-ASCII/build/CMakeFiles/edit_cache.dir
-/home/emxfire/c-programs/Image-To-ASCII/build/CMakeFiles/rebuild_cache.dir
